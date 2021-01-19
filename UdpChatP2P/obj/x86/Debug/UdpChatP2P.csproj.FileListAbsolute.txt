@@ -1,0 +1,16 @@
+C:\Users\Espen\documents\visual studio 2010\Projects\UdpChatP2P\UdpChatP2P\obj\x86\Debug\UdpChatP2P.Form1.resources
+C:\Users\Espen\documents\visual studio 2010\Projects\UdpChatP2P\UdpChatP2P\obj\x86\Debug\UdpChatP2P.Properties.Resources.resources
+C:\Users\Espen\documents\visual studio 2010\Projects\UdpChatP2P\UdpChatP2P\obj\x86\Debug\UdpChatP2P.csproj.GenerateResource.Cache
+C:\Users\Espen\documents\visual studio 2010\Projects\UdpChatP2P\UdpChatP2P\bin\Debug\UdpChatP2P.exe
+C:\Users\Espen\documents\visual studio 2010\Projects\UdpChatP2P\UdpChatP2P\bin\Debug\UdpChatP2P.pdb
+C:\Users\Espen\documents\visual studio 2010\Projects\UdpChatP2P\UdpChatP2P\obj\x86\Debug\UdpChatP2P.exe
+C:\Users\Espen\documents\visual studio 2010\Projects\UdpChatP2P\UdpChatP2P\obj\x86\Debug\UdpChatP2P.pdb
+C:\Users\Espen\Documents\Visual Studio 2010\Projects\UdpChatP2P\UdpChatP2P\obj\x86\Debug\UdpChatP2P.csprojResolveAssemblyReference.cache
+C:\Users\piyus\OneDrive\Desktop\UdpChatP2P\UdpChatP2P\bin\Debug\UdpChatP2P.exe
+C:\Users\piyus\OneDrive\Desktop\UdpChatP2P\UdpChatP2P\obj\x86\Debug\UdpChatP2P.csprojAssemblyReference.cache
+C:\Users\piyus\OneDrive\Desktop\UdpChatP2P\UdpChatP2P\obj\x86\Debug\UdpChatP2P.Form1.resources
+C:\Users\piyus\OneDrive\Desktop\UdpChatP2P\UdpChatP2P\obj\x86\Debug\UdpChatP2P.Properties.Resources.resources
+C:\Users\piyus\OneDrive\Desktop\UdpChatP2P\UdpChatP2P\obj\x86\Debug\UdpChatP2P.csproj.GenerateResource.cache
+C:\Users\piyus\OneDrive\Desktop\UdpChatP2P\UdpChatP2P\obj\x86\Debug\UdpChatP2P.csproj.CoreCompileInputs.cache
+C:\Users\piyus\OneDrive\Desktop\UdpChatP2P\UdpChatP2P\obj\x86\Debug\UdpChatP2P.exe
+C:\Users\piyus\OneDrive\Desktop\UdpChatP2P\UdpChatP2P\obj\x86\Debug\UdpChatP2P.pdb
